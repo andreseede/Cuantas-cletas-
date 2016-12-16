@@ -15,11 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="io.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/PycharmProjects/HowManyBikes/io.py">
+      <file leaf-file-name="inputoutput.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/HowManyBikes/inputoutput.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="1496">
               <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linear_regression.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/PycharmProjects/HowManyBikes/linear_regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -92,6 +102,7 @@
         <option value="$USER_HOME$/PycharmProjects/ReadingAndWriting/main.py" />
         <option value="$USER_HOME$/PycharmProjects/ReadingAndWriting/io.py" />
         <option value="$USER_HOME$/PycharmProjects/HowManyBikes/io.py" />
+        <option value="$USER_HOME$/PycharmProjects/HowManyBikes/linear_regression.py" />
       </list>
     </option>
   </component>
@@ -145,7 +156,7 @@
       <recent name="C:\Users\Bernardo\PycharmProjects\HowManyBikes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.io (1)">
+  <component name="RunManager" selected="Python.linear_regression">
     <configuration default="false" name="io" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,7 +186,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HowManyBikes" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/HowManyBikes/io.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Bernardo\PycharmProjects\HowManyBikes\inputoutput.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/HowManyBikes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HowManyBikes" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/HowManyBikes/linear_regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -314,14 +342,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.io" />
       <item index="1" class="java.lang.String" itemvalue="Python.io (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.linear_regression" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.io (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.io" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.linear_regression" />
+        <item index="1" class="java.lang.String" itemvalue="Python.io (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.io" />
       </list>
     </recent_temporary>
   </component>
@@ -409,10 +439,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/HowManyBikes/io.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/HowManyBikes/inputoutput.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="1496">
           <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/HowManyBikes/linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
